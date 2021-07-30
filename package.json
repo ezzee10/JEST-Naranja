@@ -1,0 +1,23 @@
+{
+  "name": "JEST-Naranja",
+  "version": "1.0.0",
+  "description": "Ejercicio de práctica implementando JEST",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezzee10/JEST-Naranja.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezzee10/JEST-Naranja/issues"
+  },
+  "homepage": "https://github.com/ezzee10/JEST-Naranja#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
